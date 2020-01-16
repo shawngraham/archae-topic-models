@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model>
+<topic id='0' tokens='1340965.0000' document_entropy='6.0438' word-length='NaN' coherence='0.0000' uniform_dist='6.0277' corpus_dist='1.2992' eff_num_words='593.9980' token-doc-diff='0.0000' rank_1_docs='0.2266' allocation_ratio='0.2492' allocation_count='0.2309'>
+</topic>
+<topic id='1' tokens='166428.0000' document_entropy='5.7706' word-length='NaN' coherence='0.0000' uniform_dist='6.3787' corpus_dist='3.4496' eff_num_words='264.4930' token-doc-diff='0.0000' rank_1_docs='0.0508' allocation_ratio='0.0174' allocation_count='0.0345'>
+</topic>
+<topic id='2' tokens='452529.0000' document_entropy='6.4813' word-length='NaN' coherence='0.0000' uniform_dist='6.3495' corpus_dist='2.7013' eff_num_words='209.6078' token-doc-diff='0.0000' rank_1_docs='0.1274' allocation_ratio='0.0225' allocation_count='0.0932'>
+</topic>
+<topic id='3' tokens='281017.0000' document_entropy='5.5140' word-length='NaN' coherence='0.0000' uniform_dist='6.2274' corpus_dist='2.7866' eff_num_words='365.7197' token-doc-diff='0.0000' rank_1_docs='0.0707' allocation_ratio='0.0361' allocation_count='0.0629'>
+</topic>
+<topic id='4' tokens='228442.0000' document_entropy='5.7945' word-length='NaN' coherence='0.0000' uniform_dist='6.2059' corpus_dist='2.6080' eff_num_words='483.1011' token-doc-diff='0.0000' rank_1_docs='0.0680' allocation_ratio='0.0220' allocation_count='0.0473'>
+</topic>
+<topic id='5' tokens='332339.0000' document_entropy='6.3960' word-length='NaN' coherence='0.0000' uniform_dist='6.1186' corpus_dist='2.8378' eff_num_words='470.3004' token-doc-diff='0.0000' rank_1_docs='0.0475' allocation_ratio='0.0157' allocation_count='0.0339'>
+</topic>
+<topic id='6' tokens='589393.0000' document_entropy='7.3983' word-length='NaN' coherence='0.0000' uniform_dist='7.2839' corpus_dist='2.5229' eff_num_words='124.2346' token-doc-diff='0.0000' rank_1_docs='0.0098' allocation_ratio='0.0000' allocation_count='0.0033'>
+</topic>
+<topic id='7' tokens='318233.0000' document_entropy='6.2182' word-length='NaN' coherence='0.0000' uniform_dist='6.7932' corpus_dist='2.4804' eff_num_words='181.3318' token-doc-diff='0.0000' rank_1_docs='0.0654' allocation_ratio='0.0284' allocation_count='0.0554'>
+</topic>
+<topic id='8' tokens='215175.0000' document_entropy='5.1386' word-length='NaN' coherence='0.0000' uniform_dist='6.4579' corpus_dist='3.2506' eff_num_words='259.1756' token-doc-diff='0.0000' rank_1_docs='0.0697' allocation_ratio='0.0210' allocation_count='0.0513'>
+</topic>
+<topic id='9' tokens='2919452.0000' document_entropy='8.9055' word-length='NaN' coherence='0.0000' uniform_dist='6.1280' corpus_dist='1.8741' eff_num_words='458.7819' token-doc-diff='0.0000' rank_1_docs='0.0376' allocation_ratio='0.0003' allocation_count='0.0179'>
+</topic>
+<topic id='10' tokens='2084613.0000' document_entropy='7.9926' word-length='NaN' coherence='0.0000' uniform_dist='6.7238' corpus_dist='1.4817' eff_num_words='347.0973' token-doc-diff='0.0000' rank_1_docs='0.0869' allocation_ratio='0.0025' allocation_count='0.0546'>
+</topic>
+<topic id='11' tokens='709131.0000' document_entropy='6.9209' word-length='NaN' coherence='0.0000' uniform_dist='5.9040' corpus_dist='2.2980' eff_num_words='511.9794' token-doc-diff='0.0000' rank_1_docs='0.2488' allocation_ratio='0.2068' allocation_count='0.2619'>
+</topic>
+<topic id='12' tokens='596504.0000' document_entropy='7.8499' word-length='NaN' coherence='0.0000' uniform_dist='6.4849' corpus_dist='2.2771' eff_num_words='354.5512' token-doc-diff='0.0000' rank_1_docs='0.0867' allocation_ratio='0.1040' allocation_count='0.0839'>
+</topic>
+<topic id='13' tokens='469407.0000' document_entropy='6.2373' word-length='NaN' coherence='0.0000' uniform_dist='5.8608' corpus_dist='2.5302' eff_num_words='564.8882' token-doc-diff='0.0000' rank_1_docs='0.1438' allocation_ratio='0.0716' allocation_count='0.1267'>
+</topic>
+<topic id='14' tokens='518865.0000' document_entropy='6.2880' word-length='NaN' coherence='0.0000' uniform_dist='6.7665' corpus_dist='2.2157' eff_num_words='221.5473' token-doc-diff='0.0000' rank_1_docs='0.0943' allocation_ratio='0.0314' allocation_count='0.0854'>
+</topic>
+<topic id='15' tokens='344458.0000' document_entropy='6.0701' word-length='NaN' coherence='0.0000' uniform_dist='6.8695' corpus_dist='2.6052' eff_num_words='142.4503' token-doc-diff='0.0000' rank_1_docs='0.0559' allocation_ratio='0.0014' allocation_count='0.0421'>
+</topic>
+<topic id='16' tokens='250068.0000' document_entropy='5.9024' word-length='NaN' coherence='0.0000' uniform_dist='5.1098' corpus_dist='4.3923' eff_num_words='605.5765' token-doc-diff='0.0000' rank_1_docs='0.0547' allocation_ratio='0.1657' allocation_count='0.0535'>
+</topic>
+<topic id='17' tokens='413412.0000' document_entropy='7.0181' word-length='NaN' coherence='0.0000' uniform_dist='7.1560' corpus_dist='2.6480' eff_num_words='140.2641' token-doc-diff='0.0000' rank_1_docs='0.0454' allocation_ratio='0.0018' allocation_count='0.0234'>
+</topic>
+<topic id='18' tokens='480529.0000' document_entropy='6.6886' word-length='NaN' coherence='0.0000' uniform_dist='6.5538' corpus_dist='2.7179' eff_num_words='219.6681' token-doc-diff='0.0000' rank_1_docs='0.0514' allocation_ratio='0.0098' allocation_count='0.0416'>
+</topic>
+<topic id='19' tokens='206296.0000' document_entropy='6.5352' word-length='NaN' coherence='0.0000' uniform_dist='6.3413' corpus_dist='3.3837' eff_num_words='232.9369' token-doc-diff='0.0000' rank_1_docs='0.0250' allocation_ratio='0.0000' allocation_count='0.0097'>
+</topic>
+<topic id='20' tokens='724224.0000' document_entropy='7.1696' word-length='NaN' coherence='0.0000' uniform_dist='7.4244' corpus_dist='2.7033' eff_num_words='116.8079' token-doc-diff='0.0000' rank_1_docs='0.0329' allocation_ratio='0.0099' allocation_count='0.0297'>
+</topic>
+<topic id='21' tokens='521336.0000' document_entropy='6.6556' word-length='NaN' coherence='0.0000' uniform_dist='6.4077' corpus_dist='2.5592' eff_num_words='325.9473' token-doc-diff='0.0000' rank_1_docs='0.1081' allocation_ratio='0.0041' allocation_count='0.0777'>
+</topic>
+<topic id='22' tokens='284164.0000' document_entropy='6.2616' word-length='NaN' coherence='0.0000' uniform_dist='6.8073' corpus_dist='2.9931' eff_num_words='131.5985' token-doc-diff='0.0000' rank_1_docs='0.0483' allocation_ratio='0.0362' allocation_count='0.0401'>
+</topic>
+<topic id='23' tokens='213582.0000' document_entropy='6.1830' word-length='NaN' coherence='0.0000' uniform_dist='6.2783' corpus_dist='3.5549' eff_num_words='282.0550' token-doc-diff='0.0000' rank_1_docs='0.0456' allocation_ratio='0.0000' allocation_count='0.0237'>
+</topic>
+<topic id='24' tokens='147276.0000' document_entropy='5.5725' word-length='NaN' coherence='0.0000' uniform_dist='5.7332' corpus_dist='4.2322' eff_num_words='400.9222' token-doc-diff='0.0000' rank_1_docs='0.0193' allocation_ratio='0.0026' allocation_count='0.0117'>
+</topic>
+<topic id='25' tokens='153918.0000' document_entropy='6.0164' word-length='NaN' coherence='0.0000' uniform_dist='6.6807' corpus_dist='4.0587' eff_num_words='107.6885' token-doc-diff='0.0000' rank_1_docs='0.0324' allocation_ratio='0.0783' allocation_count='0.0272'>
+</topic>
+<topic id='26' tokens='437424.0000' document_entropy='6.8413' word-length='NaN' coherence='0.0000' uniform_dist='6.5534' corpus_dist='2.7267' eff_num_words='219.5091' token-doc-diff='0.0000' rank_1_docs='0.0195' allocation_ratio='0.0009' allocation_count='0.0113'>
+</topic>
+<topic id='27' tokens='142933.0000' document_entropy='5.3696' word-length='NaN' coherence='0.0000' uniform_dist='6.1172' corpus_dist='3.8378' eff_num_words='374.5159' token-doc-diff='0.0000' rank_1_docs='0.0483' allocation_ratio='0.0113' allocation_count='0.0308'>
+</topic>
+<topic id='28' tokens='588642.0000' document_entropy='6.8735' word-length='NaN' coherence='0.0000' uniform_dist='6.0081' corpus_dist='2.0909' eff_num_words='604.1144' token-doc-diff='0.0000' rank_1_docs='0.1050' allocation_ratio='0.0680' allocation_count='0.0944'>
+</topic>
+<topic id='29' tokens='244734.0000' document_entropy='6.2545' word-length='NaN' coherence='0.0000' uniform_dist='5.1104' corpus_dist='4.6390' eff_num_words='1279.9188' token-doc-diff='0.0000' rank_1_docs='0.0190' allocation_ratio='0.0258' allocation_count='0.0121'>
+</topic>
+<topic id='30' tokens='1170959.0000' document_entropy='7.0559' word-length='NaN' coherence='0.0000' uniform_dist='6.6365' corpus_dist='1.8578' eff_num_words='298.7902' token-doc-diff='0.0000' rank_1_docs='0.1181' allocation_ratio='0.0698' allocation_count='0.1168'>
+</topic>
+<topic id='31' tokens='309157.0000' document_entropy='5.6376' word-length='NaN' coherence='0.0000' uniform_dist='6.3073' corpus_dist='2.8654' eff_num_words='298.2908' token-doc-diff='0.0000' rank_1_docs='0.0599' allocation_ratio='0.0180' allocation_count='0.0473'>
+</topic>
+<topic id='32' tokens='487526.0000' document_entropy='7.0995' word-length='NaN' coherence='0.0000' uniform_dist='7.5889' corpus_dist='2.6287' eff_num_words='110.7928' token-doc-diff='0.0000' rank_1_docs='0.0203' allocation_ratio='0.0000' allocation_count='0.0069'>
+</topic>
+<topic id='33' tokens='354004.0000' document_entropy='7.1869' word-length='NaN' coherence='0.0000' uniform_dist='6.3041' corpus_dist='2.7757' eff_num_words='406.1674' token-doc-diff='0.0000' rank_1_docs='0.0213' allocation_ratio='0.0036' allocation_count='0.0141'>
+</topic>
+<topic id='34' tokens='596635.0000' document_entropy='7.4314' word-length='NaN' coherence='0.0000' uniform_dist='7.7072' corpus_dist='2.6871' eff_num_words='127.1931' token-doc-diff='0.0000' rank_1_docs='0.0127' allocation_ratio='0.0000' allocation_count='0.0022'>
+</topic>
+<topic id='35' tokens='164261.0000' document_entropy='2.4004' word-length='NaN' coherence='0.0000' uniform_dist='6.8903' corpus_dist='2.7374' eff_num_words='218.7753' token-doc-diff='0.0000' rank_1_docs='0.0375' allocation_ratio='0.0482' allocation_count='0.0375'>
+</topic>
+<topic id='36' tokens='392328.0000' document_entropy='6.0706' word-length='NaN' coherence='0.0000' uniform_dist='6.6914' corpus_dist='2.5429' eff_num_words='244.4591' token-doc-diff='0.0000' rank_1_docs='0.0789' allocation_ratio='0.0113' allocation_count='0.0683'>
+</topic>
+<topic id='37' tokens='1371397.0000' document_entropy='7.5768' word-length='NaN' coherence='0.0000' uniform_dist='6.7459' corpus_dist='1.5986' eff_num_words='298.9949' token-doc-diff='0.0000' rank_1_docs='0.1996' allocation_ratio='0.0578' allocation_count='0.1731'>
+</topic>
+<topic id='38' tokens='122412.0000' document_entropy='4.9422' word-length='NaN' coherence='0.0000' uniform_dist='5.0676' corpus_dist='5.3497' eff_num_words='643.6746' token-doc-diff='0.0000' rank_1_docs='0.0488' allocation_ratio='0.2227' allocation_count='0.0511'>
+</topic>
+<topic id='39' tokens='487407.0000' document_entropy='6.3512' word-length='NaN' coherence='0.0000' uniform_dist='5.5765' corpus_dist='2.9806' eff_num_words='344.5426' token-doc-diff='0.0000' rank_1_docs='0.0855' allocation_ratio='0.0580' allocation_count='0.0785'>
+</topic>
+<topic id='40' tokens='2172496.0000' document_entropy='7.7432' word-length='NaN' coherence='0.0000' uniform_dist='6.1688' corpus_dist='1.5377' eff_num_words='580.4480' token-doc-diff='0.0000' rank_1_docs='0.1048' allocation_ratio='0.0373' allocation_count='0.1037'>
+</topic>
+<topic id='41' tokens='504467.0000' document_entropy='7.2476' word-length='NaN' coherence='0.0000' uniform_dist='7.5884' corpus_dist='2.8952' eff_num_words='77.2812' token-doc-diff='0.0000' rank_1_docs='0.0393' allocation_ratio='0.0096' allocation_count='0.0316'>
+</topic>
+<topic id='42' tokens='280364.0000' document_entropy='5.6917' word-length='NaN' coherence='0.0000' uniform_dist='7.1821' corpus_dist='2.4586' eff_num_words='137.1496' token-doc-diff='0.0000' rank_1_docs='0.0076' allocation_ratio='0.0024' allocation_count='0.0050'>
+</topic>
+<topic id='43' tokens='631664.0000' document_entropy='6.2094' word-length='NaN' coherence='0.0000' uniform_dist='5.9103' corpus_dist='1.8739' eff_num_words='752.5156' token-doc-diff='0.0000' rank_1_docs='0.1294' allocation_ratio='0.0833' allocation_count='0.1084'>
+</topic>
+<topic id='44' tokens='1689564.0000' document_entropy='7.7876' word-length='NaN' coherence='0.0000' uniform_dist='6.7536' corpus_dist='1.8850' eff_num_words='300.4632' token-doc-diff='0.0000' rank_1_docs='0.0935' allocation_ratio='0.0208' allocation_count='0.0748'>
+</topic>
+<topic id='45' tokens='1714978.0000' document_entropy='8.3278' word-length='NaN' coherence='0.0000' uniform_dist='7.8109' corpus_dist='2.0419' eff_num_words='65.1244' token-doc-diff='0.0000' rank_1_docs='0.0272' allocation_ratio='0.0000' allocation_count='0.0104'>
+</topic>
+<topic id='46' tokens='706599.0000' document_entropy='6.8146' word-length='NaN' coherence='0.0000' uniform_dist='5.3928' corpus_dist='2.1731' eff_num_words='839.1941' token-doc-diff='0.0000' rank_1_docs='0.2027' allocation_ratio='0.2768' allocation_count='0.2078'>
+</topic>
+<topic id='47' tokens='288448.0000' document_entropy='6.0070' word-length='NaN' coherence='0.0000' uniform_dist='6.0777' corpus_dist='2.8804' eff_num_words='344.5220' token-doc-diff='0.0000' rank_1_docs='0.0290' allocation_ratio='0.0292' allocation_count='0.0229'>
+</topic>
+<topic id='48' tokens='327962.0000' document_entropy='5.5252' word-length='NaN' coherence='0.0000' uniform_dist='6.4419' corpus_dist='3.0118' eff_num_words='186.0172' token-doc-diff='0.0000' rank_1_docs='0.1015' allocation_ratio='0.0061' allocation_count='0.0585'>
+</topic>
+<topic id='49' tokens='845221.0000' document_entropy='6.8450' word-length='NaN' coherence='0.0000' uniform_dist='6.1862' corpus_dist='1.7984' eff_num_words='517.7845' token-doc-diff='0.0000' rank_1_docs='0.2048' allocation_ratio='0.1592' allocation_count='0.1916'>
+</topic>
+<topic id='50' tokens='451847.0000' document_entropy='6.2994' word-length='NaN' coherence='0.0000' uniform_dist='6.4440' corpus_dist='2.3788' eff_num_words='253.8809' token-doc-diff='0.0000' rank_1_docs='0.1735' allocation_ratio='0.0843' allocation_count='0.1920'>
+</topic>
+<topic id='51' tokens='859225.0000' document_entropy='6.5909' word-length='NaN' coherence='0.0000' uniform_dist='6.3157' corpus_dist='1.8545' eff_num_words='314.9190' token-doc-diff='0.0000' rank_1_docs='0.1004' allocation_ratio='0.0777' allocation_count='0.0958'>
+</topic>
+<topic id='52' tokens='416589.0000' document_entropy='6.2654' word-length='NaN' coherence='0.0000' uniform_dist='6.6501' corpus_dist='2.4942' eff_num_words='118.5752' token-doc-diff='0.0000' rank_1_docs='0.1169' allocation_ratio='0.0870' allocation_count='0.1090'>
+</topic>
+<topic id='53' tokens='307782.0000' document_entropy='5.9766' word-length='NaN' coherence='0.0000' uniform_dist='6.3180' corpus_dist='2.9192' eff_num_words='330.5447' token-doc-diff='0.0000' rank_1_docs='0.0694' allocation_ratio='0.0034' allocation_count='0.0395'>
+</topic>
+<topic id='54' tokens='417537.0000' document_entropy='7.1464' word-length='NaN' coherence='0.0000' uniform_dist='6.5515' corpus_dist='2.3742' eff_num_words='308.7717' token-doc-diff='0.0000' rank_1_docs='0.0348' allocation_ratio='0.0083' allocation_count='0.0306'>
+</topic>
+<topic id='55' tokens='348740.0000' document_entropy='5.8094' word-length='NaN' coherence='0.0000' uniform_dist='6.4289' corpus_dist='2.0754' eff_num_words='371.4588' token-doc-diff='0.0000' rank_1_docs='0.0978' allocation_ratio='0.0907' allocation_count='0.0947'>
+</topic>
+<topic id='56' tokens='812091.0000' document_entropy='7.1422' word-length='NaN' coherence='0.0000' uniform_dist='5.9620' corpus_dist='2.2027' eff_num_words='445.8353' token-doc-diff='0.0000' rank_1_docs='0.0566' allocation_ratio='0.0062' allocation_count='0.0405'>
+</topic>
+<topic id='57' tokens='611914.0000' document_entropy='6.3787' word-length='NaN' coherence='0.0000' uniform_dist='6.2599' corpus_dist='2.0730' eff_num_words='446.0660' token-doc-diff='0.0000' rank_1_docs='0.1470' allocation_ratio='0.1513' allocation_count='0.1379'>
+</topic>
+<topic id='58' tokens='271780.0000' document_entropy='5.9603' word-length='NaN' coherence='0.0000' uniform_dist='6.5448' corpus_dist='2.9096' eff_num_words='313.9157' token-doc-diff='0.0000' rank_1_docs='0.0943' allocation_ratio='0.0182' allocation_count='0.0790'>
+</topic>
+<topic id='59' tokens='635291.0000' document_entropy='7.6567' word-length='NaN' coherence='0.0000' uniform_dist='5.9267' corpus_dist='2.8976' eff_num_words='477.9536' token-doc-diff='0.0000' rank_1_docs='0.0073' allocation_ratio='0.0000' allocation_count='0.0044'>
+</topic>
+<topic id='60' tokens='262003.0000' document_entropy='5.6279' word-length='NaN' coherence='0.0000' uniform_dist='6.2352' corpus_dist='2.8987' eff_num_words='270.9406' token-doc-diff='0.0000' rank_1_docs='0.0478' allocation_ratio='0.0469' allocation_count='0.0396'>
+</topic>
+<topic id='61' tokens='295713.0000' document_entropy='6.4373' word-length='NaN' coherence='0.0000' uniform_dist='6.1410' corpus_dist='3.0672' eff_num_words='207.3036' token-doc-diff='0.0000' rank_1_docs='0.0337' allocation_ratio='0.0045' allocation_count='0.0168'>
+</topic>
+<topic id='62' tokens='272953.0000' document_entropy='5.6349' word-length='NaN' coherence='0.0000' uniform_dist='6.7358' corpus_dist='2.4609' eff_num_words='296.0600' token-doc-diff='0.0000' rank_1_docs='0.1030' allocation_ratio='0.0510' allocation_count='0.0867'>
+</topic>
+<topic id='63' tokens='577396.0000' document_entropy='7.8270' word-length='NaN' coherence='0.0000' uniform_dist='5.8087' corpus_dist='3.9413' eff_num_words='665.3739' token-doc-diff='0.0000' rank_1_docs='0.0000' allocation_ratio='0.0000' allocation_count='0.0000'>
+</topic>
+<topic id='64' tokens='725807.0000' document_entropy='7.1896' word-length='NaN' coherence='0.0000' uniform_dist='6.6340' corpus_dist='2.3377' eff_num_words='285.5880' token-doc-diff='0.0000' rank_1_docs='0.0546' allocation_ratio='0.0073' allocation_count='0.0564'>
+</topic>
+<topic id='65' tokens='591848.0000' document_entropy='7.1270' word-length='NaN' coherence='0.0000' uniform_dist='6.9981' corpus_dist='2.2849' eff_num_words='241.1062' token-doc-diff='0.0000' rank_1_docs='0.0661' allocation_ratio='0.0085' allocation_count='0.0421'>
+</topic>
+<topic id='66' tokens='408615.0000' document_entropy='6.5104' word-length='NaN' coherence='0.0000' uniform_dist='6.4692' corpus_dist='2.5150' eff_num_words='293.6538' token-doc-diff='0.0000' rank_1_docs='0.0723' allocation_ratio='0.0145' allocation_count='0.0481'>
+</topic>
+<topic id='67' tokens='406061.0000' document_entropy='6.2900' word-length='NaN' coherence='0.0000' uniform_dist='6.4796' corpus_dist='2.5494' eff_num_words='325.1369' token-doc-diff='0.0000' rank_1_docs='0.1120' allocation_ratio='0.0184' allocation_count='0.0810'>
+</topic>
+<topic id='68' tokens='285527.0000' document_entropy='5.1884' word-length='NaN' coherence='0.0000' uniform_dist='5.7614' corpus_dist='2.5292' eff_num_words='478.6137' token-doc-diff='0.0000' rank_1_docs='0.0580' allocation_ratio='0.0169' allocation_count='0.0443'>
+</topic>
+<topic id='69' tokens='358766.0000' document_entropy='6.0842' word-length='NaN' coherence='0.0000' uniform_dist='6.4608' corpus_dist='2.5056' eff_num_words='326.3388' token-doc-diff='0.0000' rank_1_docs='0.0814' allocation_ratio='0.0255' allocation_count='0.0662'>
+</topic>
+<topic id='70' tokens='1262398.0000' document_entropy='7.5117' word-length='NaN' coherence='0.0000' uniform_dist='6.9496' corpus_dist='2.0359' eff_num_words='242.0219' token-doc-diff='0.0000' rank_1_docs='0.0881' allocation_ratio='0.0114' allocation_count='0.0657'>
+</topic>
+<topic id='71' tokens='345018.0000' document_entropy='6.2742' word-length='NaN' coherence='0.0000' uniform_dist='7.0385' corpus_dist='2.6665' eff_num_words='105.6903' token-doc-diff='0.0000' rank_1_docs='0.0376' allocation_ratio='0.0069' allocation_count='0.0317'>
+</topic>
+<topic id='72' tokens='383839.0000' document_entropy='5.7883' word-length='NaN' coherence='0.0000' uniform_dist='6.8176' corpus_dist='2.2047' eff_num_words='229.4154' token-doc-diff='0.0000' rank_1_docs='0.0912' allocation_ratio='0.0334' allocation_count='0.0666'>
+</topic>
+<topic id='73' tokens='941674.0000' document_entropy='6.9703' word-length='NaN' coherence='0.0000' uniform_dist='6.4269' corpus_dist='1.9630' eff_num_words='426.0273' token-doc-diff='0.0000' rank_1_docs='0.0589' allocation_ratio='0.0123' allocation_count='0.0442'>
+</topic>
+<topic id='74' tokens='183163.0000' document_entropy='5.5709' word-length='NaN' coherence='0.0000' uniform_dist='7.0129' corpus_dist='3.2321' eff_num_words='190.4905' token-doc-diff='0.0000' rank_1_docs='0.0660' allocation_ratio='0.0000' allocation_count='0.0470'>
+</topic>
+<topic id='75' tokens='349197.0000' document_entropy='6.3762' word-length='NaN' coherence='0.0000' uniform_dist='6.9285' corpus_dist='2.7778' eff_num_words='207.2719' token-doc-diff='0.0000' rank_1_docs='0.1066' allocation_ratio='0.0663' allocation_count='0.0758'>
+</topic>
+<topic id='76' tokens='327822.0000' document_entropy='6.8064' word-length='NaN' coherence='0.0000' uniform_dist='7.0837' corpus_dist='2.8805' eff_num_words='91.1360' token-doc-diff='0.0000' rank_1_docs='0.0109' allocation_ratio='0.0009' allocation_count='0.0047'>
+</topic>
+<topic id='77' tokens='218535.0000' document_entropy='6.3574' word-length='NaN' coherence='0.0000' uniform_dist='5.3769' corpus_dist='4.3829' eff_num_words='571.9824' token-doc-diff='0.0000' rank_1_docs='0.0265' allocation_ratio='0.0148' allocation_count='0.0125'>
+</topic>
+<topic id='78' tokens='487552.0000' document_entropy='5.7260' word-length='NaN' coherence='0.0000' uniform_dist='6.0724' corpus_dist='2.4489' eff_num_words='309.6362' token-doc-diff='0.0000' rank_1_docs='0.0372' allocation_ratio='0.0071' allocation_count='0.0361'>
+</topic>
+<topic id='79' tokens='229082.0000' document_entropy='5.9779' word-length='NaN' coherence='0.0000' uniform_dist='6.2045' corpus_dist='3.1970' eff_num_words='325.4516' token-doc-diff='0.0000' rank_1_docs='0.0580' allocation_ratio='0.0030' allocation_count='0.0388'>
+</topic>
+<topic id='80' tokens='361138.0000' document_entropy='7.2269' word-length='NaN' coherence='0.0000' uniform_dist='8.0153' corpus_dist='3.3682' eff_num_words='49.2284' token-doc-diff='0.0000' rank_1_docs='0.0076' allocation_ratio='0.0000' allocation_count='0.0021'>
+</topic>
+<topic id='81' tokens='447443.0000' document_entropy='4.5399' word-length='NaN' coherence='0.0000' uniform_dist='5.5434' corpus_dist='1.4984' eff_num_words='889.1582' token-doc-diff='0.0000' rank_1_docs='0.0962' allocation_ratio='0.1546' allocation_count='0.0879'>
+</topic>
+<topic id='82' tokens='245177.0000' document_entropy='5.4013' word-length='NaN' coherence='0.0000' uniform_dist='6.1050' corpus_dist='2.8410' eff_num_words='265.0959' token-doc-diff='0.0000' rank_1_docs='0.0431' allocation_ratio='0.0319' allocation_count='0.0358'>
+</topic>
+<topic id='83' tokens='1270159.0000' document_entropy='7.3605' word-length='NaN' coherence='0.0000' uniform_dist='6.4435' corpus_dist='1.9334' eff_num_words='302.2027' token-doc-diff='0.0000' rank_1_docs='0.0497' allocation_ratio='0.0081' allocation_count='0.0369'>
+</topic>
+<topic id='84' tokens='204037.0000' document_entropy='5.9441' word-length='NaN' coherence='0.0000' uniform_dist='6.8239' corpus_dist='3.1484' eff_num_words='125.2552' token-doc-diff='0.0000' rank_1_docs='0.0318' allocation_ratio='0.0000' allocation_count='0.0154'>
+</topic>
+<topic id='85' tokens='223046.0000' document_entropy='5.8531' word-length='NaN' coherence='0.0000' uniform_dist='6.6032' corpus_dist='3.2830' eff_num_words='134.2731' token-doc-diff='0.0000' rank_1_docs='0.0337' allocation_ratio='0.0019' allocation_count='0.0192'>
+</topic>
+<topic id='86' tokens='509299.0000' document_entropy='5.7576' word-length='NaN' coherence='0.0000' uniform_dist='6.0245' corpus_dist='2.2418' eff_num_words='372.8356' token-doc-diff='0.0000' rank_1_docs='0.0602' allocation_ratio='0.0594' allocation_count='0.0618'>
+</topic>
+<topic id='87' tokens='600394.0000' document_entropy='7.0477' word-length='NaN' coherence='0.0000' uniform_dist='6.6932' corpus_dist='2.4276' eff_num_words='317.1907' token-doc-diff='0.0000' rank_1_docs='0.0626' allocation_ratio='0.0031' allocation_count='0.0458'>
+</topic>
+<topic id='88' tokens='411236.0000' document_entropy='7.2595' word-length='NaN' coherence='0.0000' uniform_dist='6.3390' corpus_dist='2.7175' eff_num_words='298.4557' token-doc-diff='0.0000' rank_1_docs='0.0202' allocation_ratio='0.0080' allocation_count='0.0157'>
+</topic>
+<topic id='89' tokens='363958.0000' document_entropy='7.1185' word-length='NaN' coherence='0.0000' uniform_dist='7.2619' corpus_dist='3.5263' eff_num_words='86.8784' token-doc-diff='0.0000' rank_1_docs='0.0199' allocation_ratio='0.0000' allocation_count='0.0085'>
+</topic>
+<topic id='90' tokens='192311.0000' document_entropy='6.8478' word-length='NaN' coherence='0.0000' uniform_dist='6.5964' corpus_dist='4.1659' eff_num_words='164.3862' token-doc-diff='0.0000' rank_1_docs='0.0082' allocation_ratio='0.0000' allocation_count='0.0028'>
+</topic>
+<topic id='91' tokens='796223.0000' document_entropy='6.8073' word-length='NaN' coherence='0.0000' uniform_dist='5.9350' corpus_dist='2.4118' eff_num_words='419.3250' token-doc-diff='0.0000' rank_1_docs='0.1402' allocation_ratio='0.0338' allocation_count='0.1216'>
+</topic>
+<topic id='92' tokens='358587.0000' document_entropy='5.7067' word-length='NaN' coherence='0.0000' uniform_dist='6.5856' corpus_dist='2.4752' eff_num_words='216.8690' token-doc-diff='0.0000' rank_1_docs='0.0821' allocation_ratio='0.0335' allocation_count='0.0682'>
+</topic>
+<topic id='93' tokens='158997.0000' document_entropy='5.5177' word-length='NaN' coherence='0.0000' uniform_dist='6.3967' corpus_dist='3.4838' eff_num_words='367.0901' token-doc-diff='0.0000' rank_1_docs='0.0586' allocation_ratio='0.0498' allocation_count='0.0422'>
+</topic>
+<topic id='94' tokens='251188.0000' document_entropy='6.1847' word-length='NaN' coherence='0.0000' uniform_dist='6.2876' corpus_dist='3.6907' eff_num_words='300.8470' token-doc-diff='0.0000' rank_1_docs='0.1187' allocation_ratio='0.0444' allocation_count='0.1002'>
+</topic>
+<topic id='95' tokens='319288.0000' document_entropy='6.8472' word-length='NaN' coherence='0.0000' uniform_dist='6.8534' corpus_dist='2.9572' eff_num_words='117.8852' token-doc-diff='0.0000' rank_1_docs='0.0565' allocation_ratio='0.0007' allocation_count='0.0281'>
+</topic>
+<topic id='96' tokens='442571.0000' document_entropy='6.2231' word-length='NaN' coherence='0.0000' uniform_dist='7.0702' corpus_dist='2.5729' eff_num_words='172.6217' token-doc-diff='0.0000' rank_1_docs='0.1034' allocation_ratio='0.0133' allocation_count='0.0806'>
+</topic>
+<topic id='97' tokens='461980.0000' document_entropy='6.3290' word-length='NaN' coherence='0.0000' uniform_dist='7.0230' corpus_dist='2.4295' eff_num_words='120.2804' token-doc-diff='0.0000' rank_1_docs='0.0757' allocation_ratio='0.0162' allocation_count='0.0711'>
+</topic>
+<topic id='98' tokens='451508.0000' document_entropy='6.7910' word-length='NaN' coherence='0.0000' uniform_dist='6.2986' corpus_dist='2.4271' eff_num_words='262.1044' token-doc-diff='0.0000' rank_1_docs='0.0521' allocation_ratio='0.0185' allocation_count='0.0400'>
+</topic>
+<topic id='99' tokens='258844.0000' document_entropy='6.2675' word-length='NaN' coherence='0.0000' uniform_dist='6.7024' corpus_dist='2.7651' eff_num_words='264.7390' token-doc-diff='0.0000' rank_1_docs='0.1366' allocation_ratio='0.0075' allocation_count='0.0899'>
+</topic>
+</model>
